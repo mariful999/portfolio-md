@@ -28,7 +28,7 @@ function App() {
       <Project></Project>
       <Archive></Archive>
       <Contact></Contact>
-      <ScrollBtn></ScrollBtn>
+      {/* <ScrollBtn></ScrollBtn> */}
     </main>
   );
 }
